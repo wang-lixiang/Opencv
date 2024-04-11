@@ -1,0 +1,4 @@
+这个项目使用了goggle的mediapipe库中手部识别的一些基础库，实现了手部关节的识别和绘制。<br>
+Basic.py是整个项目的基础，也是作者完整注释的一个文件，读者可以先看懂这个并完成运行。<br>
+handtracking_module.py是将具体的实现过程归一化到一个类里面了，读者可以调用这个文件<br>
+project_example.py是一个利用handtracking_module的例子
